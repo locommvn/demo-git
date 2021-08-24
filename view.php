@@ -1,1 +1,1 @@
-day la view.php
+echo database

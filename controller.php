@@ -1,1 +1,2 @@
-day la controller.php
+include modal.php
+include view.php
